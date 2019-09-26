@@ -53,7 +53,7 @@ Coding
 
     A loop with a charAt method.
     
-       ![Alt text](/problem2.png?raw=true "Problem 2")
+    ![Alt text](/problem2.png?raw=true "Problem 2")
 
 3. Create a function that will print:
      "fizz" is the number is divisible by 3
@@ -62,4 +62,4 @@ Coding
      
    I used the toString method.
   
-       ![Alt text](/problem3.png?raw=true "Problem 3")
+     ![Alt text](/problem3.png?raw=true "Problem 3")
