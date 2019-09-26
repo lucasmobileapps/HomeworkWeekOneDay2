@@ -46,6 +46,8 @@ Coding
 1. Create a function to print the duplicates in a list of strings
 
     A nested loop with an equals method.
+    
+    ![Alt text](/problem1.png?raw=true "Problem 1")
 
 2. Create function to check if the string is a palindrome without using string.reverse() method
 
